@@ -1,0 +1,1 @@
+export function Footer(){return <footer>© CRK Dev</footer>}
